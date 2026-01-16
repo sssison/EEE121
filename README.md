@@ -1,17 +1,24 @@
 # EEE 121: Data Structures and Algorithms
 
-Welcome to the repository for EEE 121: Data Structures and Algorithms, one of the courses I handled for the 2nd Semester of AY 2025-2026. This repository will contain the lectures slides during our sessions as well as the code included in the slides.
+Welcome to the github repository for EEE 121: Data Structures and Algorithms. This repository will contain the lectures slides, python code, and any other materials used during our class sessions.
 
 ## Usage
 
-This repository will be organized as follows:
-1. Lecture 1 - C++ Fundamentals
-2. Lecture 2 - Basic Algorithm Analysis
-3. Lecture 3 - Analysis of Recursive Algorithms
-4. Lecture 4 - Linear Data Structures
-5. Lecture 5 - Non-linear Data Structures
-6. ...
+| Topic                              | Slides                          | Recording                           | Code                              |
+|-----------------------------------|----------------------------------|-------------------------------------|-----------------------------------|
+| Lecture 0: Development Set-up     | [Slides](#)                     | [Recording](#)                      | [Code](#)                         |
+| Lecture 1: C++ Fundamentals       | [Slides](#)                     | [Recording](#)                      | [Code](#)                         |
+| Lecture 2: Algorithm Analysis     | [Slides](#)                     | [Recording](#)                      | [Code](#)                         |
+| Lecture 3: Recursion              | [Slides](#)                     | [Recording](#)                      | [Code](#)                         |
+| Lecture 4: Linear Data Structures | [Slides](#)                     | [Recording](#)                      | [Code](#)                         |
+| Lecture 5: Non-linear Data Structures| [Slides](#)                     | [Recording](#)                      | [Code](#)                         |
+| Lecture 6: Graph Representation and Traversal | [Slides](#)                     | [Recording](#)                      | [Code](#)                         |
+| Lecture 7: Shortest Path Problem | [Slides](#)                     | [Recording](#)                      | [Code](#)                         |
+| Lecture 8: Union-Find | [Slides](#)                     | [Recording](#)                      | [Code](#)                         |
+| Lecture 9: Minimum Spanning Trees | [Slides](#)                     | [Recording](#)                      | [Code](#)                         |
+| Lecture 10: Dynamic Programming, Greedy Algorithms | [Slides](#)                     | [Recording](#)                      | [Code](#)                         |
+
 
 ## Concerns
 
-If you have any concerns about the material (suggestions, corrections, etc.) do not hesitate to contact me at steven.sison@eee.upd.edu.ph.
+If you have any concerns about the material (suggestions, corrections, code not working, etc.) do not hesitate to contact me at steven.sison@eee.upd.edu.ph.
