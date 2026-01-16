@@ -7,17 +7,18 @@ Welcome to the github repository for EEE 121: Data Structures and Algorithms. Th
 | Topic                              | Slides                          | Recording                           | Code                              |
 |-----------------------------------|----------------------------------|-------------------------------------|-----------------------------------|
 | Lecture 0: Development Set-up     | [Slides](#)                     | [Recording](#)                      | [Code](#)                         |
-| Lecture 1: C++ Fundamentals       | [Slides](#)                     | [Recording](#)                      | [Code](#)                         |
-| Lecture 2: Algorithm Analysis     | [Slides](#)                     | [Recording](#)                      | [Code](#)                         |
-| Lecture 3: Recursion              | [Slides](#)                     | [Recording](#)                      | [Code](#)                         |
-| Lecture 4: Linear Data Structures | [Slides](#)                     | [Recording](#)                      | [Code](#)                         |
-| Lecture 5: Non-linear Data Structures| [Slides](#)                     | [Recording](#)                      | [Code](#)                         |
-| Lecture 6: Graph Representation and Traversal | [Slides](#)                     | [Recording](#)                      | [Code](#)                         |
-| Lecture 7: Shortest Path Problem | [Slides](#)                     | [Recording](#)                      | [Code](#)                         |
-| Lecture 8: Union-Find | [Slides](#)                     | [Recording](#)                      | [Code](#)                         |
-| Lecture 9: Minimum Spanning Trees | [Slides](#)                     | [Recording](#)                      | [Code](#)                         |
-| Lecture 10: Dynamic Programming, Greedy Algorithms | [Slides](#)                     | [Recording](#)                      | [Code](#)                         |
+| Lecture 1: C++ Fundamentals       | [Slides](#versions/2025/lecture1)                     | [Recording](#)                      | [Code](#)                         |
+| Lecture 2: Algorithm Analysis     | [Slides](#versions/2025/lecture2)                     | [Recording](#)                      | [Code](#)                         |
+| Lecture 3: Recursion              | [Slides](#versions/2025/lecture3)                     | [Recording](#)                      | [Code](#)                         |
+| Lecture 4: Linear Data Structures | [Slides](#versions/2025/lecture4)                     | [Recording](#)                      | [Code](#)                         |
+| Lecture 5: Non-linear Data Structures| [Slides](#versions/2025/lecture5)                     | [Recording](#)                      | [Code](#)                         |
+| Lecture 6: Graph Representation and Traversal | [Slides](#versions/2025/lecture6)                     | [Recording](#)                      | [Code](#)                         |
+| Lecture 7: Shortest Path Problem | [Slides](#versions/2025/lecture7)                     | [Recording](#)                      | [Code](#)                         |
+| Lecture 8: Union-Find | [Slides](#versions/2025/lecture8)                     | [Recording](#)                      | [Code](#)                         |
+| Lecture 9: Minimum Spanning Trees | [Slides](#versions/2025/lecture9)                     | [Recording](#)                      | [Code](#)                         |
+| Lecture 10: Dynamic Programming, Greedy Algorithms | [Slides](#versions/2025/lecture10)                     | [Recording](#)                      | [Code](#)                         |
 
+*Last updated: January 16, 2025*
 
 ## Concerns
 
